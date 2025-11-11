@@ -6,7 +6,7 @@
     },
     "require-dev": {
       "brainmaestro/composer-git-hooks": "^2.6",
-      "dealerdirect/phpcodesniffer-composer-installer": "^0.7.0",
+      "dealerdirect/phpcodesniffer-composer-installer": "^1.2.0",
       "phpcompatibility/phpcompatibility-wp": "*",
       "wp-coding-standards/wpcs": "dev-master"
     },
